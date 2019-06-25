@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/swift,fastlane,cocoapods,swiftpackagemanager
-# Edit at https://www.gitignore.io/?templates=swift,fastlane,cocoapods,swiftpackagemanager
+# Created by https://www.gitignore.io/api/swift,fastlane,cocoapods
+# Edit at https://www.gitignore.io/?templates=swift,fastlane,cocoapods
 
 ### CocoaPods ###
 ## CocoaPods GitIgnore Template
@@ -99,9 +99,4 @@ Carthage/Build
 
 iOSInjectionProject/
 
-### SwiftPackageManager ###
-Packages
-xcuserdata
-*.xcodeproj
-
-# End of https://www.gitignore.io/api/swift,fastlane,cocoapods,swiftpackagemanager
+# End of https://www.gitignore.io/api/swift,fastlane,cocoapods
